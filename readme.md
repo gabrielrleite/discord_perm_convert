@@ -7,7 +7,7 @@ Uma biblioteca simples para converter permissões bitfield em uma lista de permi
 ## Exemplo
 
 ```js
-let perm_convert = require("discord_perm_convert");
+let permsconvert = require("discord_perm_convert");
 console.log(permsconvert(8192)) //["GERENCIAR MENSAGENS"]  
 ```
 ## Instalação
