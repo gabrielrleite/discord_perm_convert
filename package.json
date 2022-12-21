@@ -1,6 +1,6 @@
 {
   "name": "discord_perm_convert",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converte permissões BITFIELD em nomes",
   "main": "index.js",
   "scripts": {
