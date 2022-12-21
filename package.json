@@ -1,0 +1,25 @@
+{
+  "name": "discord_perm_convert",
+  "version": "1.0.0",
+  "description": "Converte permissões BITFIELD em nomes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrleite/discord_perm_convert.git"
+  },
+  "keywords": [
+    "discord",
+    "bitfield",
+    "discord",
+    "permissions"
+  ],
+  "author": "Gabriel Rodrigues Leite <contato.gabrielrleite@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielrleite/discord_perm_convert/issues"
+  },
+  "homepage": "https://github.com/gabrielrleite/discord_perm_convert#readme"
+}

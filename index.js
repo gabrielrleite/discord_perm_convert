@@ -41,7 +41,7 @@ const permissions = {
     "USAR ATIVIDADES EMBUTIDA": 0x0000008000000000,
     "ENVIAR MENSAGEM EM TÓPICOS": 0x0000004000000000
 };
-module.exports.permissions = (permBitfield) => {
+module.exports = (permBitfield) => {
     let currentPermissions = [];
     const permissionUpper = Math.floor(permBitfield / 0x100000000);
     const permissionLower = Math.floor(permBitfield % 0x100000000);
